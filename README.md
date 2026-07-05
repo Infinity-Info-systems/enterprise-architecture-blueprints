@@ -19,6 +19,14 @@ This repository helps organizations define and manage:
 - hybrid-cloud target states
 - modernization roadmaps
 
+## How To Use This Repo
+
+1. Start with the framework overview and blueprint index.
+2. Review the architecture principles and target-state architecture.
+3. Use the capability maps to frame current and future state.
+4. Apply the standards and governance models to review solutions.
+5. Use the roadmap and templates to structure modernization work.
+
 ## Core Content
 
 - [Blueprint Index](docs/blueprint-index.md)
@@ -62,10 +70,3 @@ This repository helps organizations define and manage:
 - [Executive Technology Roadmaps](../executive-technology-roadmaps/README.md)
 - [Technical Due Diligence Cloud](../technical-due-diligence-cloud/README.md)
 - [Architecture Diagrams](../architecture-diagrams/README.md)
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the architecture principles and target-state architecture.
-3. Use the capability maps and standards to shape blueprint work.
-4. Expand roadmaps and governance models next.
