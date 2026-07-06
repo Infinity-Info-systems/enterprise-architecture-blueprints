@@ -18,3 +18,8 @@ This model defines the lifecycle of architecture ideas from proposal through rev
 - every material design should be reviewable
 - exceptions should be visible and time-bound
 - completed work should be checked against the original design
+- implementation should be compared to the approved blueprint
+
+## Use
+
+Use this model to keep architecture work visible from idea through implementation and review.

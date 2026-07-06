@@ -11,6 +11,7 @@ Hybrid cloud architecture describes how public cloud, private cloud, and on-prem
 - workload placement
 - platform governance
 - resilience and recovery
+- workload classification
 
 ## Review Questions
 
@@ -25,3 +26,7 @@ Hybrid cloud architecture describes how public cloud, private cloud, and on-prem
 - placement guidance
 - control considerations
 - dependency map
+
+## Use
+
+Use this page when the architecture needs to balance cloud, private, and on-prem environments in a controlled way.

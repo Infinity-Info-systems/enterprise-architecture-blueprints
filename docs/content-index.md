@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for architecture blueprints, governance, and modernization planning.
+Use it to move from the high-level blueprint index to the exact artifact you need.
 
 ## Entry Points
 
@@ -35,7 +36,16 @@ This index organizes the repo into a front door for architecture blueprints, gov
 - [Bibliography](../references/bibliography.md)
 - [Transformation Metrics](../evidence/transformation-metrics.md)
 
+## Reading Order
+
+1. Framework overview
+2. Blueprint index
+3. Architecture principles
+4. Capability maps
+5. Governance models
+6. Standards and roadmaps
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so blueprint content stays reusable and easy to extend.
-
+Keep each page clear enough for reviewers and practical enough for implementation teams.

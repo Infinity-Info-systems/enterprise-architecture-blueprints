@@ -11,6 +11,7 @@ Architecture principles establish the design rules that shape decisions across p
 - keep ownership clear
 - reduce integration complexity where possible
 - align architecture to measurable business outcomes
+- prefer reusable patterns over bespoke designs
 
 ## How To Use Them
 
@@ -24,3 +25,7 @@ Architecture principles establish the design rules that shape decisions across p
 - review decisions
 - exception approvals
 - design outcomes
+
+## Principle Outcome
+
+Principles should be concrete enough to guide design choices and consistent enough to support governance.

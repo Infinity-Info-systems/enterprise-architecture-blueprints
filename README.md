@@ -5,6 +5,7 @@
 This repository contains enterprise architecture blueprints for cloud transformation, capability planning, governance, and target-state design.
 
 It focuses on architecture principles, integration patterns, standards, and modernization roadmaps.
+It is intended to help teams move from strategy to execution with reusable blueprint content.
 
 ## Why It Matters
 
@@ -18,6 +19,17 @@ This repository helps organizations define and manage:
 - governance standards
 - hybrid-cloud target states
 - modernization roadmaps
+- blueprint reuse
+- capability-driven planning
+- decision traceability
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- blueprint framing and governance
+- capability, architecture, and standard models
+- templates, metrics, and roadmap artifacts
 
 ## How To Use This Repo
 
@@ -26,6 +38,7 @@ This repository helps organizations define and manage:
 3. Use the capability maps to frame current and future state.
 4. Apply the standards and governance models to review solutions.
 5. Use the roadmap and templates to structure modernization work.
+6. Keep the language consistent across blueprints, standards, and roadmap artifacts.
 
 ## Core Content
 
@@ -58,6 +71,10 @@ This repository helps organizations define and manage:
 
 - [Architecture Review Template](templates/architecture-review-template.md)
 - [Solution Design Template](templates/solution-design-template.md)
+
+## Operating Principle
+
+Architecture blueprints should make the target state understandable, reviewable, and executable.
 
 ## References
 

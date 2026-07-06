@@ -1,6 +1,7 @@
 # Blueprint Index
 
 This index gives the enterprise architecture blueprint repository a practical structure for reference and reuse.
+Use it as the starting point for selecting the right blueprint family.
 
 ## Purpose
 
@@ -53,6 +54,11 @@ Use this index to organize target-state blueprints, standards, governance patter
 - separate standards from target state patterns
 - use one review path for architecture approvals
 - link every blueprint back to the hub repo
+- keep the naming consistent across blueprint families
+
+## Blueprint Rule
+
+Each blueprint should describe the intended architecture clearly enough that a reviewer can understand the rationale and the path to implementation.
 
 ## Related Artifacts
 

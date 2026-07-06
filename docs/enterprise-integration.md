@@ -11,6 +11,7 @@ Enterprise integration defines how systems exchange data and services across bus
 - data movement
 - identity and trust
 - observability of integrations
+- failure handling
 
 ## Decision Questions
 
@@ -25,3 +26,7 @@ Enterprise integration defines how systems exchange data and services across bus
 - data flow summary
 - ownership model
 - exception list
+
+## Use
+
+Use this page to show how systems should communicate without making ownership or recovery unclear.

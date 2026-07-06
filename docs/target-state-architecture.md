@@ -11,6 +11,7 @@ The target state architecture defines the future design the organization is buil
 - strong security and resilience posture
 - measurable operating model
 - realistic transition steps
+- reusable architectural patterns
 
 ## How To Use
 
@@ -25,3 +26,7 @@ The target state architecture defines the future design the organization is buil
 - transition map
 - capability priorities
 - roadmap inputs
+
+## Outcome
+
+The target state should be specific enough to guide execution without locking the organization into unnecessary complexity.

@@ -20,3 +20,7 @@
 - approved
 - approved with conditions
 - needs revision
+
+## Review Rule
+
+If the design does not align to principle, standard, and target state, it should not pass review.

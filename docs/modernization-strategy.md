@@ -11,6 +11,7 @@ The modernization strategy explains how architecture changes are sequenced, fund
 - platform modernization
 - integration simplification
 - governance improvement
+- architecture reuse
 
 ## Prioritization Criteria
 
@@ -26,3 +27,7 @@ The modernization strategy explains how architecture changes are sequenced, fund
 - priority sequence
 - decision points
 - roadmap checkpoints
+
+## Strategy Rule
+
+Modernization should reduce complexity and increase reuse, not just move systems from one place to another.
