@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for architecture blueprints, governance, and modernization planning.
 Use it to move from the high-level blueprint index to the exact artifact you need.
+The order is arranged so readers move from framing into governance and then into execution-oriented assets.
 
 ## Entry Points
 
@@ -49,3 +50,4 @@ Use it to move from the high-level blueprint index to the exact artifact you nee
 
 Use the same section structure as the other core repos so blueprint content stays reusable and easy to extend.
 Keep each page clear enough for reviewers and practical enough for implementation teams.
+If a page does not help define the target state, manage transition, or set standards, move that detail into a more focused blueprint or roadmap note.

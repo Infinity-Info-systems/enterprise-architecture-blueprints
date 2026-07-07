@@ -3,6 +3,7 @@
 ## Purpose
 
 The target state architecture defines the future design the organization is building toward.
+It should be concrete enough to guide teams and flexible enough to support transition realities.
 
 ## Characteristics
 
@@ -20,6 +21,10 @@ The target state architecture defines the future design the organization is buil
 - sequence work by dependency and value
 - review with leadership before execution
 
+## Use
+
+Use this page to compare current state to target state and to decide which changes should happen first.
+
 ## Outputs
 
 - target-state diagrams
@@ -30,3 +35,4 @@ The target state architecture defines the future design the organization is buil
 ## Outcome
 
 The target state should be specific enough to guide execution without locking the organization into unnecessary complexity.
+If the target state is too vague, teams will interpret it differently; if it is too rigid, it will slow the transition.

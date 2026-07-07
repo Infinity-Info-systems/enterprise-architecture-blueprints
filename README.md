@@ -6,6 +6,7 @@ This repository contains enterprise architecture blueprints for cloud transforma
 
 It focuses on architecture principles, integration patterns, standards, and modernization roadmaps.
 It is intended to help teams move from strategy to execution with reusable blueprint content.
+The goal is to make architectural direction easier to understand, easier to review, and easier to implement.
 
 ## Why It Matters
 
@@ -22,6 +23,9 @@ This repository helps organizations define and manage:
 - blueprint reuse
 - capability-driven planning
 - decision traceability
+- reusable decision patterns
+- clearer transition planning
+- easier alignment between architecture and delivery teams
 
 ## Content Model
 
@@ -39,6 +43,7 @@ This repository works best when the content is grouped into three layers:
 4. Apply the standards and governance models to review solutions.
 5. Use the roadmap and templates to structure modernization work.
 6. Keep the language consistent across blueprints, standards, and roadmap artifacts.
+7. Separate enduring standards from temporary transition decisions.
 
 ## Core Content
 
@@ -75,6 +80,16 @@ This repository works best when the content is grouped into three layers:
 ## Operating Principle
 
 Architecture blueprints should make the target state understandable, reviewable, and executable.
+If a blueprint cannot guide a decision or sequence work, it should be simplified or folded into a supporting artifact.
+
+## Executive Takeaway
+
+Use this repo when leaders need a practical path from current state to target architecture.
+It helps answer:
+
+- What should the future state look like?
+- What standards should guide delivery?
+- How do we phase the transition responsibly?
 
 ## References
 

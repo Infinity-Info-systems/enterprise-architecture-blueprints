@@ -4,6 +4,7 @@
 
 This repository gives architecture teams a practical set of blueprints, standards, and governance models that can be reused across transformation programs.
 It gives the organization a repeatable way to frame target state, standards, and roadmap decisions.
+The framework is meant to reduce ambiguity and keep architecture decisions connected to execution.
 
 ## What It Covers
 
@@ -31,6 +32,15 @@ It gives the organization a repeatable way to frame target state, standards, and
 - roadmaps are sequenced and realistic
 - review cycles are predictable
 - capability maps support decision-making
+
+## How To Read It
+
+Start with the framework overview, then move into the blueprint index and target state architecture.
+That sequence keeps the conversation focused on where the organization is going before getting into supporting detail.
+
+## Result
+
+The framework helps teams make architecture choices that are easier to govern, sequence, and deliver.
 
 ## Practical Use
 
