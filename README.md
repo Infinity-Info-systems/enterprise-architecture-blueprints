@@ -7,6 +7,7 @@ This repository contains enterprise architecture blueprints for cloud transforma
 It focuses on architecture principles, integration patterns, standards, and modernization roadmaps.
 It is intended to help teams move from strategy to execution with reusable blueprint content.
 The goal is to make architectural direction easier to understand, easier to review, and easier to implement.
+The repository should also be easy to reference from the parent MCGR page so the blueprint library is visible as part of the larger ecosystem.
 
 ## Why It Matters
 
@@ -26,6 +27,14 @@ This repository helps organizations define and manage:
 - reusable decision patterns
 - clearer transition planning
 - easier alignment between architecture and delivery teams
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [Executive Technology Roadmaps](../executive-technology-roadmaps/README.md)
+- [Technical Due Diligence Cloud](../technical-due-diligence-cloud/README.md)
+- [Cloud Transformation Case Studies](../cloud-transformation-case-studies/README.md)
 
 ## Content Model
 
@@ -81,6 +90,16 @@ This repository works best when the content is grouped into three layers:
 
 Architecture blueprints should make the target state understandable, reviewable, and executable.
 If a blueprint cannot guide a decision or sequence work, it should be simplified or folded into a supporting artifact.
+
+## Quick View
+
+| Blueprint Layer | Purpose | Typical Artifact |
+| --- | --- | --- |
+| Framing | Explain the direction | Framework overview |
+| Structure | Define the target shape | Target state architecture |
+| Governance | Control the decisions | Architecture review board |
+| Standards | Keep delivery consistent | Cloud architecture standards |
+| Roadmaps | Sequence the transition | Modernization roadmap |
 
 ## Executive Takeaway
 

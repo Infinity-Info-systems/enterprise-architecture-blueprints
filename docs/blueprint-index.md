@@ -48,6 +48,16 @@ Use this index to organize target-state blueprints, standards, governance patter
 | Hybrid Cloud Architecture | Target state | In Progress |
 | Transformation Roadmap | Sequencing | Ready |
 
+## Figure
+
+```mermaid
+flowchart LR
+  A[Framing] --> B[Target State]
+  B --> C[Governance Patterns]
+  C --> D[Standards]
+  D --> E[Roadmaps]
+```
+
 ## Recommended Actions
 
 - keep each blueprint tied to a business capability
@@ -55,6 +65,14 @@ Use this index to organize target-state blueprints, standards, governance patter
 - use one review path for architecture approvals
 - link every blueprint back to the hub repo
 - keep the naming consistent across blueprint families
+
+## Use
+
+Use this page as the selector for the blueprint family you need.
+
+## Outcome
+
+A clear blueprint index makes it easier to move from strategy to a usable architecture asset.
 
 ## Blueprint Rule
 
