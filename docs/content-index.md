@@ -6,6 +6,17 @@ This index organizes the repo into a front door for architecture blueprints, gov
 Use it to move from the high-level blueprint index to the exact artifact you need.
 The order is arranged so readers move from framing into governance and then into execution-oriented assets.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the architecture story |
+| 2 | Blueprint Index | Pick the right blueprint family |
+| 3 | Architecture Principles | Align on design intent |
+| 4 | Target State Architecture | See the target shape |
+| 5 | Governance Models | Understand review and lifecycle control |
+| 6 | Standards and Roadmaps | See how delivery stays consistent |
+
 ## Entry Points
 
 - [Blueprint Index](docs/blueprint-index.md)
@@ -51,3 +62,12 @@ The order is arranged so readers move from framing into governance and then into
 Use the same section structure as the other core repos so blueprint content stays reusable and easy to extend.
 Keep each page clear enough for reviewers and practical enough for implementation teams.
 If a page does not help define the target state, manage transition, or set standards, move that detail into a more focused blueprint or roadmap note.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Define architecture direction | Framework Overview |
+| Choose blueprint family | Blueprint Index |
+| Review standards | Cloud Architecture Standards |
+| Plan transition | Cloud Modernization Roadmap |

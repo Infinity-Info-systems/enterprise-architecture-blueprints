@@ -7,6 +7,17 @@ It gives the organization a repeatable way to frame target state, standards, and
 The framework is meant to reduce ambiguity and keep architecture decisions connected to execution.
 The framework is also intended to make the architecture story easy to show from the parent MCGR page and related ecosystem pages.
 
+## Architecture Flow
+
+```mermaid
+flowchart LR
+    A["Current State"] --> B["Capability View"]
+    B --> C["Target State"]
+    C --> D["Standards"]
+    D --> E["Governance Review"]
+    E --> F["Roadmap"]
+```
+
 ## What It Covers
 
 - current and target-state architecture
@@ -63,3 +74,13 @@ Use this framework when you need to compare current state to a target architectu
 - design standards
 - review templates
 - modernization plans
+
+## Architecture Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Framing | Where are we going? | Framework overview |
+| Capability | What must change? | Capability maps |
+| Structure | What should the target look like? | Target state architecture |
+| Control | What standards apply? | Cloud architecture standards |
+| Transition | How do we get there? | Modernization roadmap |

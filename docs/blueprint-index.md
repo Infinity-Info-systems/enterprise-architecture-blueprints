@@ -7,6 +7,16 @@ Use it as the starting point for selecting the right blueprint family.
 
 Use this index to organize target-state blueprints, standards, governance patterns, and modernization sequences.
 
+## Selector Table
+
+| Blueprint Family | Best For | Related Artifact |
+| --- | --- | --- |
+| Target State Architecture | Defining the future shape | Target state architecture |
+| Governance Patterns | Controlling architecture decisions | Architecture review board |
+| Modernization Patterns | Sequencing change | Transformation roadmap |
+| Integration Patterns | Aligning systems and data flow | Enterprise integration |
+| Roadmap Patterns | Planning execution waves | Cloud modernization roadmap |
+
 ## Blueprint Families
 
 ### 1. Target State Architecture
@@ -84,3 +94,7 @@ Each blueprint should describe the intended architecture clearly enough that a r
 - [Architecture Principles](../docs/architecture-principles.md)
 - [Target State Architecture](../docs/target-state-architecture.md)
 - [Cloud Modernization Roadmap](../roadmaps/cloud-modernization-roadmap.md)
+
+## Blueprint Rule
+
+Each blueprint should answer what problem it solves, what decision it informs, and what artifact should follow next.
