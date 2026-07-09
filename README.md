@@ -86,6 +86,11 @@ This repository works best when the content is grouped into three layers:
 - [Architecture Review Template](templates/architecture-review-template.md)
 - [Solution Design Template](templates/solution-design-template.md)
 
+## Code Direction
+
+This repo now includes a typed architecture registry in `src/` so blueprint content can be reused in tools, dashboards, or future app pages.
+The code layer mirrors the framing, capability, structure, control, and transition layers documented in the repository.
+
 ## Operating Principle
 
 Architecture blueprints should make the target state understandable, reviewable, and executable.
